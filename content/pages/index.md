@@ -10,33 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - type: TextSection
-    colors: colors-c
-    variant: variant-a
-    title: SLIPPING RIB SYNDROME PORTAL
-    subtitle: Health Support Portal
-    text: >
-      Sign up today to access expert advice and personalized plans for managing
-      slipping rib syndrome. Our portal offers tailored health tips, treatments,
-      and resources to help you alleviate discomfort and regain control of your
-      wellness.
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - elementId: ''
     colors: colors-f
     backgroundSize: full
