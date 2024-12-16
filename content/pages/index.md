@@ -13,7 +13,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: COMING SOON..SIGN UP FOR EARLY ACCESS
+    title: SRS PORTAL COMING SOON..SIGN UP FOR EARLY ACCESS
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -105,7 +105,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: >+
+    text: >
       ### **Key Features:**
 
 
@@ -122,5 +122,4 @@ sections:
 
       *   **Personalized Recommendations**: Get tailored advice for managing
       slipping rib syndrome.
-
 ---
