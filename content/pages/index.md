@@ -10,46 +10,10 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    title: SLIPPING RIB HEALTH PORTAL
-    subtitle: >-
-      Sign up today to access expert advice and personalized plans for managing
-      slipping rib syndrome. Our portal offers tailored health tips, treatments,
-      and resources to help you alleviate discomfort and regain control of your
-      wellness.
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    actions: []
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: COMING SOON..SIGN UP FOR EARLY ACCESS
+    title: SRS PORTAL COMING SOON..SIGN UP FOR EARLY ACCESS
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -105,4 +69,57 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    title: SLIPPING RIB HEALTH PORTAL
+    subtitle: >-
+      Sign up today to access expert advice and personalized plans for managing
+      slipping rib syndrome. Our portal offers tailored health tips, treatments,
+      and resources to help you alleviate discomfort and regain control of your
+      wellness.
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
+    actions: []
+    text: >
+      ### **Key Features:**
+
+
+      *   **Self-Assessment Tool**: Test if you have slipping rib syndrome.
+
+
+      *   **Expert Resources**: Access articles, videos, and tips for managing
+      your health.
+
+
+      *   **Community Support**: Connect with others experiencing similar
+      issues.
+
+
+      *   **Personalized Recommendations**: Get tailored advice for managing
+      slipping rib syndrome.
 ---
