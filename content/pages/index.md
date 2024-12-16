@@ -14,7 +14,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Welcome to Your Path to Relief & Wellness
-    subtitle: Welcome to Your Path to Relief & Wellness
+    subtitle: >-
+      Sign up today to access expert advice and personalized plans for managing
+      slipping rib syndrome. Our portal offers tailored health tips, treatments,
+      and resources to help you alleviate discomfort and regain control of your
+      wellness.
     styles:
       self:
         height: auto
