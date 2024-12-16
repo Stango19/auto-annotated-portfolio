@@ -15,13 +15,11 @@ sections:
     variant: variant-a
     title: SLIPPING RIB SYNDROME PORTAL
     subtitle: Health Support Portal
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      Sign up today to access expert advice and personalized plans for managing
+      slipping rib syndrome. Our portal offers tailored health tips, treatments,
+      and resources to help you alleviate discomfort and regain control of your
+      wellness.
     elementId: ''
     styles:
       self:
