@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: SLIPPING RIB HEALTH PORTAL
     subtitle: >-
       Sign up today to access expert advice and personalized plans for managing
