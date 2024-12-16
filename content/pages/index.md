@@ -13,7 +13,7 @@ sections:
   - type: TextSection
     colors: colors-d
     variant: variant-a
-    title: SLIPPING RIB SYNDROM PORTAL
+    title: SLIPPING RIB SYNDROME PORTAL
     subtitle: The section subtitle
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
