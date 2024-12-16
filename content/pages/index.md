@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - type: TextSection
-    colors: colors-d
+    colors: colors-c
     variant: variant-a
     title: SLIPPING RIB SYNDROME PORTAL
     subtitle: Health Support Portal
