@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: SLIPPING RIB PORTAL
+    title: SLIPPING RIB HEALTH PORTAL
     subtitle: >-
       Sign up today to access expert advice and personalized plans for managing
       slipping rib syndrome. Our portal offers tailored health tips, treatments,
