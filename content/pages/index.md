@@ -46,6 +46,24 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: >+
+      ### **Key Features:**
+
+
+      *   **Self-Assessment Tool**: Test if you have slipping rib syndrome.
+
+
+      *   **Expert Resources**: Access articles, videos, and tips for managing
+      your health.
+
+
+      *   **Community Support**: Connect with others experiencing similar
+      issues.
+
+
+      *   **Personalized Recommendations**: Get tailored advice for managing
+      slipping rib syndrome.
+
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
